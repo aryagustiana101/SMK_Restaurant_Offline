@@ -1,0 +1,37 @@
+E:\Users\ASUS\source\repos\TestBuild\bin\Release\SMK Restaurant.exe.config
+E:\Users\ASUS\source\repos\TestBuild\bin\Release\SMK Restaurant.exe
+E:\Users\ASUS\source\repos\TestBuild\bin\Release\SMK Restaurant.pdb
+E:\Users\ASUS\source\repos\TestBuild\bin\Release\SMK Restaurant.xml
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMKRestaurant.CashierNavigation.resources
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMKRestaurant.Login.resources
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMKRestaurant.ManageMember.resources
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMKRestaurant.ManageMenu.resources
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMKRestaurant.AdminNavigation.resources
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMKRestaurant.Resources.resources
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMKRestaurant.Order.resources
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMKRestaurant.Payment.resources
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMKRestaurant.Report.resources
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMKRestaurantManagemenetSystem.vbproj.GenerateResource.cache
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMKRestaurantManagemenetSystem.vbproj.CoreCompileInputs.cache
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMK Restaurant.exe
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMK Restaurant.xml
+E:\Users\ASUS\source\repos\TestBuild\obj\Release\SMK Restaurant.pdb
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\bin\Release\SMK Restaurant Offline.exe.config
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\bin\Release\SMK Restaurant Offline.exe
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\bin\Release\SMK Restaurant Offline.pdb
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\bin\Release\SMK Restaurant Offline.xml
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMKRestaurant.CashierNavigation.resources
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMKRestaurant.Login.resources
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMKRestaurant.ManageMember.resources
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMKRestaurant.ManageMenu.resources
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMKRestaurant.AdminNavigation.resources
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMKRestaurant.Resources.resources
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMKRestaurant.Order.resources
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMKRestaurant.Payment.resources
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMKRestaurant.Report.resources
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMKRestaurantManagemenetSystem.vbproj.GenerateResource.cache
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMKRestaurantManagemenetSystem.vbproj.CoreCompileInputs.cache
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMK Restaurant Offline.exe
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMK Restaurant Offline.xml
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMK Restaurant Offline.pdb
+E:\Users\ASUS\source\repos\SMK_Restaurant_Offline\obj\Release\SMKRestaurantManagemenetSystem.vbproj.AssemblyReference.cache

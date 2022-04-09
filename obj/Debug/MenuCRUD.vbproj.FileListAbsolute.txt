@@ -1,0 +1,13 @@
+E:\Users\ASUS\source\repos\MenuCRUD\bin\Debug\MenuCRUD.exe.config
+E:\Users\ASUS\source\repos\MenuCRUD\bin\Debug\MenuCRUD.exe
+E:\Users\ASUS\source\repos\MenuCRUD\bin\Debug\MenuCRUD.pdb
+E:\Users\ASUS\source\repos\MenuCRUD\bin\Debug\MenuCRUD.xml
+E:\Users\ASUS\source\repos\MenuCRUD\obj\Debug\MenuCRUD.vbproj.AssemblyReference.cache
+E:\Users\ASUS\source\repos\MenuCRUD\obj\Debug\MenuCRUD.Form1.resources
+E:\Users\ASUS\source\repos\MenuCRUD\obj\Debug\MenuCRUD.Resources.resources
+E:\Users\ASUS\source\repos\MenuCRUD\obj\Debug\MenuCRUD.vbproj.GenerateResource.cache
+E:\Users\ASUS\source\repos\MenuCRUD\obj\Debug\MenuCRUD.vbproj.CoreCompileInputs.cache
+E:\Users\ASUS\source\repos\MenuCRUD\obj\Debug\MenuCRUD.exe
+E:\Users\ASUS\source\repos\MenuCRUD\obj\Debug\MenuCRUD.xml
+E:\Users\ASUS\source\repos\MenuCRUD\obj\Debug\MenuCRUD.pdb
+E:\Users\ASUS\source\repos\MenuCRUD\obj\Debug\MenuCRUD.Form2.resources
